@@ -1,8 +1,8 @@
 import React from "react";
-import Logo from "./Logo";
+import Header from "./Header";
 
 function App() {
-    return <Logo />
+    return <Header />
 }
 
 export default App;
